@@ -1,2 +1,2 @@
 # Power-BI_Sales-Analysis_Report
-A Power BI report on Adventure Works Cycles containing 3 different pages - Summary, Product page and Customer page. 
+A Power BI report on Adventure Works Cycles containing 3 different pages - Executive Summary, Product Details and Customer Details. Applied Data cleaning using Power Query, building relationships using Data Modeling, writing DAX formulas to track KPIs like; sales, revenue, profit, return, compare regional performance, analyze product-level trends and forecasts, identify high-value custiomers etc. and allows users to drill down into the data to gain deeper insights.
